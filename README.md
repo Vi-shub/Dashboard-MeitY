@@ -55,8 +55,8 @@ ADMIN_PASSWORD = your password
 
 ## 🔗 Links
 
-- Live - https://lms-dir.vercel.app/
-- Server - https://lms-server-xzsw.onrender.com
+- Live - https://meitydashboard-atq3tkf5z-vishubs-projects.vercel.app/
+- Server - https://dashboard-meity-backend.onrender.com/
 
 ## 🔗 Credentials for Admin
 
